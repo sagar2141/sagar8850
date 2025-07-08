@@ -1,0 +1,7 @@
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\sagarAzureWebApp.exe
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\sagarAzureWebApp.dll
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\sagarAzureWebApp.deps.json
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\sagarAzureWebApp.runtimeconfig.json
+C:\Users\sagar\sagarAzureWebApp\bin\Release\net8.0\publish\sagarAzureWebApp.pdb
